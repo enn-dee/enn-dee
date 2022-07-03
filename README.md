@@ -13,20 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋, I'm Nadeem!
-About Me 🚀
-🎓I'm an Open-source enthusiast trying my best to contribute for better tech-world . 
 =============================
+# Hi 👋, I'm Nadeem!.
+=============================
+# About Me 🚀
+🎓I'm an Open-source enthusiast trying my best to contribute for better tech-world . 
+
 
 Web developer || Software developer
------------------------------------
+
 
 * 🌍  I'm based in India
 - 🌱 I’m currently learning DevOps.
-* ✉️  You can contact me at [nadeemahmad120808](mailto:nddar191131@gmail.com)
+* ✉️  You can contact me at [nadeemahmad120808](mailto:nadeemahmad120808@gmail.com)
 
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
