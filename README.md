@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Nadeem Ahmad
+Hi 👋, I'm Nadeem!
+About Me 🚀
+🎓I'm an Open-source enthusiast trying my best to contribute for better tech-world . 
 =============================
 
 Web developer || Software developer
 -----------------------------------
 
 * 🌍  I'm based in India
+- 🌱 I’m currently learning DevOps.
 * ✉️  You can contact me at [nadeemahmad120808](mailto:nddar191131@gmail.com)
-* 🧠  I'm learning Devops
+
 
 ### Skills
 
