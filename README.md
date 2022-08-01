@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓I'm an Open-source enthusiast trying my best to contribute for better tech-world . 
 
 
-Web developer || Software developer
+
 
 
 * 🌍  I'm based in India
