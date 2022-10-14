@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 * 🌍  I'm based in India
-- 🌱 I’m currently learning DevOps.
+- 🌱 Aspiring fullstack developer.
 * ✉️  You can contact me at [nadeemahmad120808](mailto:nadeemahmad120808@gmail.com)
 
 
@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/enn-dee"><img src="https://github-readme-stats.vercel.app/api?username=enn-dee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enn-dee's GitHub stats" /></a>
 # ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enn-dee.enn-dee)
+### Earned Badges
+[![@enndee's Holopin board](https://holopin.me/enndee)](https://holopin.io/@enndee)
