@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 =============================
 # Hello folks,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="35px"> I'm Nadeem!.
 =============================
-# About Me 🚀
-🎓I'm an Open-source enthusiast trying my best to contribute for better tech-world . 
+# Intro🚀
+<p>👀  I love to build projects, make life easier and fun with code.</p>
+<p>😉  I love contributing to Opensource Projects.</p>
 
 
 
 
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Kashmir
 - 🌱 Aspiring fullstack developer.
-* ✉️  You can contact me at [nadeemahmad120808](mailto:nadeemahmad120808@gmail.com)
+* ✉️  You can contact me at [mail.enndee@gmail.com](mailto:mail.enndee@gmail.com)
 
 
 ## Skills
