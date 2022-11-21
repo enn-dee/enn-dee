@@ -52,6 +52,13 @@ Here are some ideas to get you started:
 <a href="http://www.github.com/enn-dee"><img src="https://github-readme-stats.vercel.app/api?username=enn-dee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enn-dee's GitHub stats" /></a>
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          23 mins         ███████████▓░░░░░░░░░░░░░   46.30 %
+HTML         14 mins         ███████░░░░░░░░░░░░░░░░░░   27.97 %
+JavaScript   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+```
+
 <!--END_SECTION:waka-->
 
 # ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enn-dee.enn-dee)
