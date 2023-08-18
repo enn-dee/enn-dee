@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadeem Ahmad</h1>
 <h3 align="center">A passionate Full-stack developer from Kashmir.</h3>
 
-- 🌱 I’m currently learning **PYTHON , REACT.JS**
+- 🌱 I’m currently learning **React , NodeJs**
 
 - 📝 I regularly write articles on [enndee.hashnode.dev](enndee.hashnode.dev)
 
