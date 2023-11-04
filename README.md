@@ -36,9 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C            1 hr 53 mins    ███████████████▓░░░░░░░░░   62.44 %
-HTML         51 mins         ███████░░░░░░░░░░░░░░░░░░   28.01 %
-JavaScript   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
