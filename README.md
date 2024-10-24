@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="user-gif" width="300" height="200">
+  <img src="https://media.tenor.com/5LdshwUZiTYAAAAi/robot-excited.gif" width="300" height="200">
 </p>
 
 <h2 align="center">🚀 Technologies & Tools</h2>
