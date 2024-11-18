@@ -1,7 +1,6 @@
 
-
 <p align="center">
-  <img src="https://media.tenor.com/5LdshwUZiTYAAAAi/robot-excited.gif" width="300" height="200">
+  <img src="https://tenor.com/view/angry-typing-gif-8722362971895179760.gif" width="300" height="200">
 </p>
 
 <h2 align="center">🚀 Technologies & Tools</h2>
