@@ -48,3 +48,12 @@
 <img src="https://img.shields.io/twitter/follow/nadeem__dev?logo=twitter&style=for-the-badge" alt="nadeem__dev" /></a> 
 </p>
 
+<div align="center">
+  
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enn-dee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
