@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif" width="200" height="200">
-  
-</p>
-
 <h2 align="center">🚀 Technologies & Tools</h2>
 
 <p align="center">
