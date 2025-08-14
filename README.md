@@ -5,6 +5,7 @@
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-%2300D8FF.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
+     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
@@ -21,14 +22,15 @@
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+ <img src="https://img.shields.io/badge/Embedded%20System-RTOS-blue?style=for-the-badge" alt="embeded system">
+
   <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
 </p>
 
 <h2 align="center">💬 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://your-website.com" style="text-decoration:none;">
+  <a href="https://portfolio-enn-dees-projects.vercel.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-%230EBF00.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:nadeemahmad120808@gmail.com" style="text-decoration:none;">
@@ -41,7 +43,9 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=enn-dee&label=Profile%20views&color=0e75b6&style=flat" alt="enn-dee"  /> 
-<img src="https://img.shields.io/twitter/follow/nadeem__dev?logo=twitter&style=for-the-badge" alt="nadeem__dev" /></a> 
+   <a href="https://www.x.com/nadeems_twt">
+<img src="https://img.shields.io/twitter/follow/nadeems_twt?logo=twitter&style=for-the-badge" alt="nadeems_twt" />
+   </a> 
 </p>
 
 <div align="center">
@@ -51,5 +55,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enn-dee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
